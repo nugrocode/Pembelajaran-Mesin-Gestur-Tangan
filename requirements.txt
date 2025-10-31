@@ -1,0 +1,9 @@
+mediapipe
+opencv-python
+numpy
+scikit-learn
+pandas
+pyttsx3
+joblib
+matplotlib
+tensorflow  # opsional, hanya jika ingin opsi Keras
